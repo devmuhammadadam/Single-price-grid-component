@@ -9,7 +9,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Links
 
-- Demo: https://muhammad-abdusalam.github.io/Single-price-grid-component/
+- Demo: https://devmuhammadadam.github.io/Single-price-grid-component/
 
 ## Built with ⚒️
 
@@ -21,4 +21,4 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ## Author
 
 - Frontend Mentor - [@Muhammad-adam778](https://www.frontendmentor.io/profile/Muhammad-adam778)
-- Linkedin - [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin - [@muhammad-abdusalam](https://www.linkedin.com/in/devmuhammadadam)
